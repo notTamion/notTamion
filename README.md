@@ -1,1 +1,1 @@
-<img src="https://e7.pngegg.com/pngimages/431/299/png-clipart-gray-housefly-fly-left-animals-insects-thumbnail.png" width="30"/>
+<img src="https://cdn.discordapp.com/attachments/858303531629674527/1132326400565706782/image.png" width="35"/>
