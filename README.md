@@ -1,3 +1,1 @@
-# Hi 👋, I'm Tamion
-
-German guy who likes to code in his freetime.
+<img src="https://e7.pngegg.com/pngimages/431/299/png-clipart-gray-housefly-fly-left-animals-insects-thumbnail.png" width="30"/>
