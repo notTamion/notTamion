@@ -51,10 +51,6 @@
 
 ###
 
-<img align="right" height="209" src="https://i.imgur.com/N8rrbXg.gif"  />
-
-###
-
 <img src="github-user-contribution.svg" alt="Snake animation" />
 
 ###
