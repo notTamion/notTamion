@@ -30,8 +30,8 @@ jobs:
         with:
           github_user_name: notTamion
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
           
           
       # push the content of <build_dir> to a branch
