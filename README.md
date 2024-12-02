@@ -56,6 +56,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<img src="https://widgetbite.com/stats/notTamion" alt="watching_count" width="0"/>
-
 ###
